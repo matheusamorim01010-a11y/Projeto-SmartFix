@@ -1,0 +1,19 @@
+﻿REQUISITOS NÃO FUNCIONAIS;Função
+RNF01;O sistema deve carregar as telas em até 3 segundos.
+RNF02;Todas as solicitações de serviço e atualizações de status devem ser processadas em tempo real.
+RNF03;A infraestrutura deve suportar múltiplos usuários acessando a plataforma simultaneamente sem perda de performance.
+RNF04;O sistema deve estar operacional 24 horas por dia, 7 dias por semana.
+RNF05;Devem ser realizados backups periódicos automáticos para garantir a integridade das informações.
+RNF06;O sistema deve utilizar autenticação por senha criptografada.
+RNF07;Todos os dados dos usuários e parceiros devem ser armazenados em servidores seguros.
+RNF08;As operações de pagamento devem utilizar protocolos de segurança (como SSL/TLS) para a proteção financeira.
+RNF09;O sistema deve garantir a privacidade das informações pessoais, em conformidade com as leis de proteção de dados (LGPD).
+RNF10;A interface deve ser simples, intuitiva e fácil de navegar.
+RNF11;O design deve ser compatível com diferentes faixas etárias, garantindo uma navegação clara.
+RNF12;O sistema deve se adaptar automaticamente a diferentes tamanhos de tela e resoluções (Design Responsivo).
+RNF13;O aplicativo deve ser funcional tanto em dispositivos Android quanto iOS.
+RNF14;Deve existir uma interface web dedicada para a gestão administrativa do negócio.
+RNF15;A arquitetura deve permitir o aumento do número de usuários e assistências técnicas sem perda de desempenho.
+RNF16;A estrutura deve estar preparada tecnicamente para a expansão do serviço para novas regiões geográficas.
+RNF17;O sistema deve evitar a perda de dados em caso de interrupções e registrar todo o histórico de solicitações.
+RNF18;Mensagens de erro apresentadas ao usuário devem ser claras, evitando códigos técnicos confusos.

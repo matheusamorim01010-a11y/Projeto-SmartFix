@@ -1,0 +1,26 @@
+﻿REQUISITOS FUNCIONAIS;GUIA DE REQUISITOS  
+RF 1.01 -Permitir o cadastro de usuários (nome, e-mail, telefone e senha). ;RF 1.. CADASTRO E ACESSO
+RF 1.02 - Permitir login e logout.;RF 2... SOLICITAÇÃO DE SERVIÇO
+RF 1.03 - Permitir recuperação de senha. ;RF 3... AGENDAMENTO E LOGÍSTICA
+RF 1.04 - Permitir edição de dados do perfil.;RF 4... ACOMPANHAMENTO DO REPARO
+RF 2.01 - Permitir que o usuário selecione o tipo de dispositivo (celular, notebook, tablet, etc.).;RF 5...PAGAMENTO
+RF 2.02 - Permitir a descrição do problema. ;RF 6... AVALIAÇÃO 
+RF 2.03 - Exibir assistências técnicas disponíveis próximas ao usuário. ;RF 7... PAINEL ADMINISTRATIVO
+RF 2.04 - Mostrar estimativa de preço e prazo. ;
+RF 2.05 - Permitir que o usuário escolha a assistência técnica. ;
+RF 3.01 - Permitir o agendamento de coleta do dispositivo.;
+RF 3.02 - Exibir data e hora disponivel para agendamento.;
+RF 3.03 - Permitir o acompanhamento do status de coleta.;
+ RF 4.01 - Exibir o status de serviço (ex: coleta agendada, em diagnóstico, em reparo, concluído). ;
+RF 4.02 - Permitir que a assistência envie orçamento final. ;
+RF 4.03 - Permitir que o cliente aprove ou recuse o orçamento. ;
+RF 5.01 - Permitir pagamento pelo aplicativo.;
+RF 5.02 - Registro de histórico de pagamento.;
+RF 5.03 - Exibir comprovante de pagamento.;
+RF 6.01 - Permitir que o cliente avalie a assistência técnica.;
+RF 6.02 - Permitir comentário do serviço.;
+RF 6.03 - Exibir avaliações para usuários.;
+RF 7.01 - Cadastro e Gestão de Parceiros (CNPJ/Alvará);
+RF 7.02 - Permitir visualização de solicitações.;
+RF 7.03 - Permitir gestão de usuários.;
+RF 7.04 - Permitir acompanhamento de indicadores básicos (quantidade de serviços, avaliações, etc.).;
